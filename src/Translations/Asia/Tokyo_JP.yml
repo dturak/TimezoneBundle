@@ -1,0 +1,17 @@
+lang: 'jp'
+time:
+  now: '今'
+  ago:
+    year: '%count%年前'
+    month: '%count%ヶ月前'
+    day: '%count%日前'
+    hour: '%count%時間前'
+    minute: '%count%分前'
+    second: '%count%秒前'
+  in:
+    year: '%count%年後'
+    month: '%count%ヶ月後'
+    day: '%count%日後'
+    hour: '%count%日後'
+    minute: '%count%分後'
+    second: '%count%秒後'

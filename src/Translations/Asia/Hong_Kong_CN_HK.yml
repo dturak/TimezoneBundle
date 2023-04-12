@@ -1,0 +1,17 @@
+lang: 'cn_HK'
+time:
+  now: '剛才'
+  ago:
+    year: '%count% 年前'
+    month: '%count% 月前'
+    day: '%count% 天前'
+    hour: '%count% 小時前'
+    minute: '%count% 分鐘前'
+    second: '%count% 秒前'
+  in:
+    year: '%count% 年後'
+    month: '%count% 個月後'
+    day: '%count% 天後'
+    hour: '%count% 小時後'
+    minute: '%count% 分鐘後'
+    second: '%count% 秒後'

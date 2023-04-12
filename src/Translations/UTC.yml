@@ -1,0 +1,17 @@
+lang: 'en_BG'
+time:
+  now: 'now'
+  ago:
+    year: '1 year ago|%count% years ago'
+    month: '1 month ago|%count% months ago'
+    day: '1 day ago|%count% days ago'
+    hour: '1 hour ago|%count% hours ago'
+    minute: '1 minute ago|%count% minutes ago'
+    second: '1 second ago|%count% seconds ago'
+  in:
+    year: 'in 1 year|in %count% years'
+    month: 'in 1 month|in %count% months'
+    day: 'in 1 day|in %count% days'
+    minute: 'in 1 minute|in %count% minutes'
+    hour: 'in 1 hour|in %count% hours'
+    second: 'in 1 second|in %count% seconds'

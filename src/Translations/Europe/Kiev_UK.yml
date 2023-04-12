@@ -1,0 +1,17 @@
+lang: 'uk'
+time:
+  now: 'зараз'
+  ago:
+    year: '%count% рiк тому|%count% роки тому|%count% рокiв тому'
+    month: '%count% мiсяць тому|%count% мiсяцi тому|%count% мiсяцiв тому'
+    day: '%count% день тому|%count% днi тому|%count% днiв тому'
+    hour: '%count% годину тому|%count% години тому|%count% годин тому'
+    minute: '%count% хвилину тому|%count% хвилини тому|%count% хвилин тому'
+    second: '%count% секунду тому|%count% секунди тому|%count% секунд тому'
+  in:
+    year: 'через %count% рiк|через %count% роки|через %count% рокiв'
+    month: 'через %count% мiсяць|через %count% мiсяцi|через %count% мiсяцiв'
+    day: 'через %count% день|через %count% днi|через %count% днiв'
+    hour: 'через %count% годину|через %count% години|через %count% годин'
+    minute: 'через %count% хвилину|через %count% хвилини|через %count% хвилин'
+    second: 'через %count% секунду|через %count% секунди|через %count% секунд'

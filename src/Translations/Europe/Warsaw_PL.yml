@@ -1,0 +1,17 @@
+lang: 'pl'
+time:
+  now: 'teraz'
+  ago:
+    year: 'rok temu|%count% lata temu|%count% lat temu'
+    month: 'miesiąc temu|%count% miesiące temu|%count% miesięcy temu'
+    day: 'wczoraj|%count% dni temu|%count% dni temu'
+    hour: 'godzinę temu|%count% godziny temu|%count% godzin temu'
+    minute: 'minutę temu|%count% minuty temu|%count% minut temu'
+    second: 'sekundę temu|%count% sekundy temu|%count% sekund temu'
+  in:
+    year: 'za rok|za %count% lata|za %count% lat'
+    month: 'za miesiąc|za %count% miesiące|za %count% miesięcy'
+    day: 'jutro|za %count% dni|za %count% dni'
+    hour: 'za godzinę|za %count% godziny|za %count% godzin'
+    minute: 'za minutę|za %count% minuty|za %count% minut'
+    second: 'za sekundę|za %count% sekundy|za %count% sekund'

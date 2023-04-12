@@ -1,0 +1,17 @@
+lang: 'de'
+time:
+  now: 'jetzt'
+  ago:
+    year: 'vor einem Jahr|vor %count% Jahren'
+    month: 'vor einem Monat|vor %count% Monaten'
+    day: 'vor einem Tag|vor %count% Tagen'
+    hour: 'vor einer Stunde|vor %count% Stunden'
+    minute: 'vor einer Minute|vor %count% Minuten'
+    second: 'vor einer Sekunde|vor %count% Sekunden'
+  in:
+    year: 'in einem Jahr|in %count% Jahren'
+    month: 'in einem Monat|in %count% Monaten'
+    day: 'in einem Tag|in %count% Tagen'
+    hour: 'in einer Stunde|in %count% Stunden'
+    minute: 'in einer Minute|in %count% Minuten'
+    second: 'in einer Sekunde|in %count% Sekunden'

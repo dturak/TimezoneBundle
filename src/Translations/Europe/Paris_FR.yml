@@ -1,0 +1,17 @@
+lang: 'fr'
+time:
+  now: 'maintenant'
+  ago:
+    year: 'il y a 1 an|il y a %count% ans'
+    month: 'il y a 1 mois|il y a %count% mois'
+    day: 'il y a 1 jour|il y a %count% jours'
+    hour: 'il y a 1 heure|il y a %count% heures'
+    minute: 'il y a 1 minute|il y a %count% minutes'
+    second: 'il y a 1 seconde|il y a %count% secondes'
+  in:
+    year: 'dans 1 an|dans %count% ans'
+    month: 'dans 1 mois|dans %count% mois'
+    day: 'dans 1 jour|dans %count% jours'
+    hour: 'dans 1 heure|dans %count% heures'
+    minute: 'dans 1 minute|dans %count% minutes'
+    second: 'dans 1 seconde|dans %count% secondes'
